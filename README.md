@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lHM6VOrXuPwOfW90qCq74Sv0bCD2Zqls/view?usp=sharing](https://drive.google.com/file/d/1lHM6VOrXuPwOfW90qCq74Sv0bCD2Zqls/view?usp=sharing)
 
-- ⚡ Fun fact **I think I AM FUNNY.....I THINK**
+- ⚡ Fun fact **Being Human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
