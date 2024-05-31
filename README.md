@@ -34,8 +34,8 @@
 ## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Krish-Paul&theme=tokyonight)
-<h1 align="center">Hi l</h1>
 
+**My Holopin Board**
 <a href="https://holopin.io/@krishpaul">
     <img src="https://holopin.me/krishpaul" alt="An image of @krishpaul's Holopin badges, which is a link to view their full Holopin profile">
 </a>
