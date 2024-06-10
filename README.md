@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://onlykpaul.pages.dev/](https://onlykpaul.pages.dev/)
 
-- 📫 How to reach me **krishnangshu.paul2003@gmail**
+- 📫 How to reach me **krishnangshu.paul2003@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lHM6VOrXuPwOfW90qCq74Sv0bCD2Zqls/view?usp=sharing](https://drive.google.com/file/d/1lHM6VOrXuPwOfW90qCq74Sv0bCD2Zqls/view?usp=sharing)
 
