@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust,OpenCv**
 
-- 👨‍💻 Take a look at my Portfolio https://onlykpaul.pages.dev/](https://onlykpaul.pages.dev/)
+- 👨‍💻 Take a look at my Portfolio [https://onlykpaul.pages.dev/](https://onlykpaul.pages.dev/)
 
 - 📫 How to reach me **krishnangshu.paul2003@gmail.com**
 
