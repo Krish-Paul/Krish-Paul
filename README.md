@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Paul </h1>
+<h1 align="center">Hi 👋, I'm Krish Paul </h1>
 <h3 align="center">Final Year B.Tech Student in Computer Science | Aspiring Software Developer | Enthusiast in AI/ML and Data Analytics</h3>
 
 - 🌱 I’m currently learning **Rust,OpenCv**
