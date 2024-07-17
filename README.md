@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **krishnangshu.paul2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lHM6VOrXuPwOfW90qCq74Sv0bCD2Zqls/view?usp=sharing](https://drive.google.com/file/d/1lHM6VOrXuPwOfW90qCq74Sv0bCD2Zqls/view?usp=sharing)
+- 📄 Know about my experiences(https://drive.google.com/file/d/1lHM6VOrXuPwOfW90qCq74Sv0bCD2Zqls/view?usp=sharing)
 
 - ⚡ Fun fact **Being Human**
 
